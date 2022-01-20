@@ -1,5 +1,6 @@
 ## Finger count and detection Module basically used to check the intial fictonallity of prtoject
 ## Here use Artifial technology is basically taken from Google Media Pipe that is elpful tool to design such finger tracker###
+
 import cv2
 import mediapipe as mp
 import time
