@@ -1,7 +1,6 @@
 #### A basic implimentation of Virtual Mouse control using Finger witj help of Webcam #####
 
 ### helpfull for Rular people to take Computer intrection easier than they think####
-
 import cv2
 import numpy as np
 import Finger_Tracker as htm
